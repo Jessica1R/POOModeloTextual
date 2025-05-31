@@ -1,9 +1,14 @@
 # POOModeloTextual
 Integrantes:
+
 Jostin Xavier Vasquez Calderón 
+
 David Alejandro Ruiz Sanchez 
+
 Gyna Mayerly Yupanqui Romero 
+
 Jessica Catalina Rivas Jimenez  
+
 
 Sistema de Gestión de una Flota de Vehículos para una Empresa de Reparto
 
